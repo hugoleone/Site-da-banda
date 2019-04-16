@@ -28,6 +28,7 @@
 						<li class="link_menu"><a href="?i=sobre">Sobre</a></li>
 						<li class="link_menu"><a href="?i=musica">Músicas</a></li>
 						<li class="link_menu"><a href="?i=contato">Contatos</a></li>
+						<li class="link_menu"><a href="?i=contato">Contatos</a></li>
 						<li class="link_menu"><a href="?i=home">Home</a></li>
 					</ul>
 				</div>
