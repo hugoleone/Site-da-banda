@@ -7,7 +7,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-md-offset-3"	>
-				<img src="../img/j4.jpg" class="img-thumbnail img-responsive center">	
+				<img src="../img/logo.png" class="img-responsive center">	
 					<table style="width:100%">
 					    <tr>
 					     	<th>Nome</th>
@@ -35,3 +35,8 @@
 		</div>	
 	</div>	
 </div>
+
+<!-- INICIO DO CÓDIGO -->
+<center>
+<h1>Deixe suas sugestões</h1>
+
