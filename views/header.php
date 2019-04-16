@@ -7,6 +7,8 @@
 	<link rel="stylesheet" type="text/css" href="../css/bootstrap-theme.min.css">
 	<link rel="stylesheet" type="text/css" href="../css/style.css">
 	<link rel="shortcut icon" href="../img/logo_asa.ico" sizes="32x32" type="image/png">
+	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 </head>
