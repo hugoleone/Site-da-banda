@@ -31,13 +31,13 @@
 					  	</tr>
 					</table>
 
-					<div class="list-group">
+					<!-- <div class="list-group">
 						<a href="#" class="list-group-item"><i class="fa fa-home fa-fw"></i> Home</a>
 						<a href="#" class="list-group-item"><i class="fa fa-book fa-fw"></i> Library</a>
 						<a href="#" class="list-group-item"><i class="fa fa-pencil fa-fw"></i> Applications</a>
 						<a href="#" class="list-group-item"><i class="fa fa-cog fa-fw"></i> Settings</a>
-					</div>
-				<p style="text-align: center"><a href="?i=navegar" class="btn btn-primary btn-lg">Navegar</a></p>
+					</div> -->
+				<!-- <p style="text-align: center"><a href="?i=navegar" class="btn btn-primary btn-lg">Navegar</a></p> -->
 			</div>
 		</div>	
 	</div>	
@@ -47,3 +47,15 @@
 <center>
 <h1>Deixe suas sugestões</h1>
 
+<main> 
+    <div id="janela_formulario">
+        <form action="#" method="post">
+            <input type="text" name="nome" placeholder="Digite seu nome">
+            <input type="email" name="email" placeholder="Digite seu email">
+            <label>Mensagem</label>
+            <textarea name="mensagem"></textarea>
+            <input type="submit" name="enviar" value="Enviar Mensagem">
+                                 
+        </form>
+    </div>
+</main>
