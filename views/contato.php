@@ -1,5 +1,4 @@
 <div id="main" class="center">
-	<!-- <span style="color: #9bbd46">--Sobre--</span> -->
 	<h2>Contatos</h2>
 </div>
 
@@ -30,14 +29,6 @@
 					    	<td><a href="https://www.facebook.com/paulosergio.pool">Paulo Sérgio</a></td>
 					  	</tr>
 					</table>
-
-					<!-- <div class="list-group">
-						<a href="#" class="list-group-item"><i class="fa fa-home fa-fw"></i> Home</a>
-						<a href="#" class="list-group-item"><i class="fa fa-book fa-fw"></i> Library</a>
-						<a href="#" class="list-group-item"><i class="fa fa-pencil fa-fw"></i> Applications</a>
-						<a href="#" class="list-group-item"><i class="fa fa-cog fa-fw"></i> Settings</a>
-					</div> -->
-				<!-- <p style="text-align: center"><a href="?i=navegar" class="btn btn-primary btn-lg">Navegar</a></p> -->
 			</div>
 		</div>	
 	</div>	
